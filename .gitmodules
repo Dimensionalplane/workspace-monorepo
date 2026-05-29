@@ -1,0 +1,9 @@
+[submodule "Fortnite_arb"]
+	path = Fortnite_arb
+	url = https://github.com/Dimensionalplane/Fortnite_arb.git
+[submodule "alarm_Clock_accountability_puzzle"]
+	path = alarm_Clock_accountability_puzzle
+	url = https://github.com/Dimensionalplane/alarm_Clock_accountability_puzzle.git
+[submodule "hymnmania"]
+	path = hymnmania
+	url = https://github.com/Dimensionalplane/hymnmania.git
