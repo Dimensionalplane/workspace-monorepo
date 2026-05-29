@@ -7,3 +7,6 @@
 [submodule "hymnmania"]
 	path = hymnmania
 	url = https://github.com/Dimensionalplane/hymnmania.git
+[submodule "websiteidea"]
+	path = websiteidea
+	url = https://github.com/Dimensionalplane/websiteidea.git
