@@ -4,9 +4,12 @@
 [submodule "alarm_Clock_accountability_puzzle"]
 	path = alarm_Clock_accountability_puzzle
 	url = https://github.com/Dimensionalplane/alarm_Clock_accountability_puzzle.git
-[submodule "hymnmania"]
-	path = hymnmania
+[submodule "TUT"]
+	path = TUT
 	url = https://github.com/Dimensionalplane/hymnmania.git
 [submodule "websiteidea"]
 	path = websiteidea
 	url = https://github.com/Dimensionalplane/websiteidea.git
+[submodule "harrytrader"]
+	path = harrytrader
+	url = https://github.com/dimensionalplane/harrytrader.git
